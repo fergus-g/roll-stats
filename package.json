@@ -1,0 +1,19 @@
+{
+  "name": "roll-stats",
+  "version": "1.0.0",
+  "description": "A light-weight package that rolls stats for dnd using different roll types",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "vitest"
+  },
+  "author": "Fergus-g",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^3.0.3"
+  },
+  "dependencies": {
+    "node": "^22.13.0"
+  }
+}
