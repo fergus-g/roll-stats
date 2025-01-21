@@ -11,7 +11,10 @@
   "author": "Fergus-g",
   "license": "ISC",
   "exports": {
-    "import": "./index.js"
+    ".": {
+      "import": "./index.js",
+      "require": "./index.cjs"
+    }
   },
   "devDependencies": {
     "vitest": "^3.0.3"
