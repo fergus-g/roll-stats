@@ -10,10 +10,10 @@
   },
   "author": "Fergus-g",
   "license": "ISC",
+  "exports": {
+    "import": "./index.js"
+  },
   "devDependencies": {
     "vitest": "^3.0.3"
-  },
-  "dependencies": {
-    "node": "^22.13.0"
   }
 }
