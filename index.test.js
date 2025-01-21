@@ -1,5 +1,5 @@
 import { test, expect } from "vitest";
-import { rollStandardArray, rollMethodI } from "./index.js";
+import { rollStandardArray } from "./index.js";
 
 test("calling roll standard array returns a shuffled array", () => {
   // Arrange
