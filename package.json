@@ -1,6 +1,6 @@
 {
   "name": "roll-stats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A light-weight package that rolls stats for dnd using different roll types",
   "main": "index.js",
   "type": "module",
